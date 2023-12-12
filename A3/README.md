@@ -1,4 +1,5 @@
 - [Assignment PDF](./A3.pdf)
+- [Report PDF](./report.pdf)
 - [Effect of Dropout](./droput.ipynb)
 - [Effect L1 regularization](./l1.ipynb)
 - [Effect L2 regularization](./l2.ipynb)
