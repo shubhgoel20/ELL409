@@ -1,4 +1,5 @@
 - [Assignment PDF](./A1.pdf)
+- [Report PDF](./report.pdf)
 - [Part 1: Multivariate Linear Regression](./Part1/)
 - [Part 2: Multivariate Logistic Regression](./Part2/)
 - [Part 3: BONUS](./Part3/)
